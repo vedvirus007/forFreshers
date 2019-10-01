@@ -1,5 +1,5 @@
 <h1>Hello Freshers!</h1>
-I know you're here for the free shirt, but that's fine....<br>
+I know you're here for the free T-shirt, but that's fine....<br>
 You have this repo and show me what you got, i am open to pulls!!!!
 <hr>
 I think this will get you guys started:
